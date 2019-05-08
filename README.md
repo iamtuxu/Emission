@@ -1,2 +1,2 @@
-# 6632HW3
+# Emission with Python
 6632 simulate emission
